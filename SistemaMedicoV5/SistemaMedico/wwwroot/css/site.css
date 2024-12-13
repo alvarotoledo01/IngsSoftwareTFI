@@ -1,0 +1,43 @@
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.search-container {
+    margin-top: 50px;
+}
+
+.search-box {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #343a40;
+}
+
+.table-container {
+    margin-top: 30px;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-info {
+    background-color: #0dcaf0;
+    border: none;
+}
+
+    .btn-info:hover {
+        background-color: #0bb5d4;
+    }
+
+

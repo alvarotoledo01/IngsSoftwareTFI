@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MedicamentosController",
+    "Method": "ObtenerSugerencias",
+    "RelativePath": "api/medicamentos/sugerencias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

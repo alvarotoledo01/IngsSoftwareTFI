@@ -1,0 +1,96 @@
+﻿@model SistemaMedicoV3.Models.Paciente
+
+@{
+    ViewData["Title"] = "Dashboard Médico";
+    Layout = null;  // No se usa layout
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="~/css/MedicoDashboard.css" rel="stylesheet" />
+    <title>Dashboard Médico</title>
+</head>
+<body>
+    <div class="container dashboard-container">
+        <!-- Botón Volver -->
+        <div class="d-flex justify-content-start mt-3">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Volver
+            </a>
+        </div>
+
+        <div class="header text-center my-4">
+            <h2>Paciente: @Model.NombreCompleto</h2>
+            <p>Edad: @(DateTime.Now.Year - Model.FechaNacimiento.Year) años | DNI: @Model.DNI | Obra Social: @Model.ObraSocial</p>
+        </div>
+
+        <!-- Información del Paciente -->
+        <div class="card patient-info mb-4">
+            <div class="card-header bg-primary text-white">
+                <i class="fas fa-user"></i> Datos del Paciente
+            </div>
+            <div class="card-body">
+                <ul>
+                    <li><i class="fas fa-id-badge"></i><strong> CUIL: </strong> @Model.CUIL</li>
+                    <li><i class="fas fa-calendar-alt"></i><strong> Fecha de Nacimiento: </strong> @Model.FechaNacimiento.ToString("dd/MM/yyyy")</li>
+                    <li><i class="fas fa-envelope"></i><strong> Email: </strong> @Model.Email</li>
+                    <li><i class="fas fa-phone"></i><strong> Teléfono: </strong> @Model.Telefono</li>
+                    <li><i class="fas fa-id-card"></i><strong> Número de Afiliado: </strong> @Model.NroAfiliado</li>
+                    <li><i class="fas fa-map-marker-alt"></i><strong> Dirección: </strong> @Model.Direccion</li>
+                    <li><i class="fas fa-city"></i><strong> Localidad: </strong> @Model.Localidad</li>
+                    <li><i class="fas fa-flag"></i><strong> Provincia: </strong> @Model.Provincia</li>
+                    <li><i class="fas fa-globe"></i><strong> País: </strong> @Model.Pais</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Botón Nueva Evolución -->
+        <div class="row justify-content-center">
+            <div class="col-4">
+                <h2>Historia Clínica</h2>
+            </div>
+            <div class="col-4">
+                <a href="@Url.Action("Evolucion", "Clinica", new { dni = Model.DNI })" class="btn btn-primary">
+                    <i class="fas fa-plus"></i> Nueva Evolución
+                </a>
+
+            </div>
+        </div>
+        
+
+        
+
+          <!-- Diagnósticos y Evoluciones -->
+        <div class="content mt-4">
+            @foreach (var diagnostico in Model.HistoriaClinica.Diagnosticos)
+            {
+                <div class="card mb-4" style="flex: 1 1 calc(50% - 20px)">
+                    <div class="card-header bg-primary text-white">
+                        <i class="fas fa-notes-medical"></i> @diagnostico.Enfermedad
+                    </div>
+                    <div class="card-body">
+                        <ul>
+                            @foreach (var evolucion in diagnostico.Evoluciones)
+                            {
+                                <li>
+                                    <strong>@evolucion.Fecha.ToString("dd/MM/yyyy"):</strong> @evolucion.Informe
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            }
+        </div>
+
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

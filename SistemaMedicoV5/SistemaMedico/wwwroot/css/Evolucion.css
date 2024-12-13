@@ -1,0 +1,150 @@
+﻿/* General Styles */
+body {
+    background-color: #f8f9fa; /* Fondo claro y agradable */
+    font-family: 'Arial', sans-serif;
+    color: #343a40; /* Color de texto oscuro */
+}
+
+h1, h3 {
+    font-family: 'Poppins', sans-serif; /* Fuente moderna para títulos */
+    font-weight: bold;
+}
+
+/* Card Styles */
+.card {
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    border: none;
+}
+
+/* Buttons */
+button, .btn {
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+    button:hover, .btn:hover {
+        transform: scale(1.05);
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15); /* Efecto hover */
+    }
+
+/* Form Fields */
+.form-label {
+    font-weight: bold;
+    color: #495057;
+}
+
+.form-select, .form-control {
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease-in-out;
+}
+
+    .form-select:focus, .form-control:focus {
+        border-color: #0d6efd; /* Azul Bootstrap */
+        box-shadow: 0px 0px 4px rgba(13, 110, 253, 0.5);
+    }
+
+/* Section Titles */
+.text-primary {
+    color: #0d6efd !important; /* Azul Bootstrap */
+}
+
+.text-secondary {
+    color: #6c757d !important; /* Gris Bootstrap */
+}
+
+/* List Styles */
+.list-group-item {
+    border: none;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .list-group-item:hover {
+        background-color: #f1f1f1;
+    }
+
+/* Icons */
+.bi {
+    margin-right: 5px;
+    color: #0d6efd;
+    transition: color 0.3s ease-in-out;
+}
+
+    .bi:hover {
+        color: #0056b3; /* Azul más oscuro */
+    }
+
+/* Header */
+h1.text-primary {
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #0d6efd;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+/* Footer (if needed) */
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+    border-top: 3px solid #0d6efd;
+}
+
+    footer a {
+        color: #0d6efd;
+        text-decoration: none;
+    }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+/* Media Queries */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    button, .btn {
+        font-size: 0.9rem;
+    }
+}
+
+#suggestions {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+    width: 100%; /* Asegúrate de que coincida con el ancho del input */
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+    .suggestion-item:hover {
+        background-color: #f0f0f0;
+    }
+
+.btn-separado {
+    margin-bottom: 20px; /* Puedes ajustar este valor según lo necesario */
+}
+

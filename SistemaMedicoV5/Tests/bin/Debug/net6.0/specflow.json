@@ -1,0 +1,14 @@
+﻿{
+  "specFlow": {
+    "unitTestProvider": {
+      "name": "xUnit" // Cambiar a "NUnit" o "MSTest" si usas otro framework.
+    },
+    "runtime": {
+      "stopAtFirstError": false // Continúa ejecutando las pruebas después de un fallo.
+    },
+    "generator": {
+      "allowDebugGeneratedFiles": true, // Permite inspeccionar los archivos generados.
+      "skipBindWhenRowIsNull": true
+    }
+  }
+}

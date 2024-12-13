@@ -1,0 +1,405 @@
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\OneDrive - frt.utn.edu.ar\C sharp\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV1\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoConFRONT\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\TFI\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\Downloads\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.0\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\matia\Downloads\respaldo por si rompo el proyecto\TFI_IS_VF.2.1\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.exe
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.deps.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.runtimeconfig.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.sourcelink.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\bundle\SistemaMedico.styles.css
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\scopedcss\projectbundle\SistemaMedico.bundle.scp.css
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.SistemaMedico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.build.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMedico.props
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaM.ADD790B2.Up2Date
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\refint\SistemaMedico.dll
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.pdb
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\SistemaMedico.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TFI_IS_VF.2.2\SistemaMedicoV5\SistemaMedico\obj\Debug\net6.0\ref\SistemaMedico.dll

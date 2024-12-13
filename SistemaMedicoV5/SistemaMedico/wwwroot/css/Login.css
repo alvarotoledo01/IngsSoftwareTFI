@@ -1,0 +1,95 @@
+﻿
+/* Estilo del cuerpo */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #fff;
+}
+
+/* Contenedor del login */
+.login-container {
+    background: #ffffff;
+    color: #333;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+    /* Título */
+    .login-container h2 {
+        margin-bottom: 1.5rem;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #333;
+    }
+
+/* Campos de formulario */
+.form-group {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+    .form-group label {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+        display: block;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 0.75rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 1rem;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-group input:focus {
+            border-color: #2575fc;
+            box-shadow: 0 0 5px rgba(37, 117, 252, 0.5);
+            outline: none;
+        }
+
+/* Botón de enviar */
+.btn {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border: none;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .btn:hover {
+        background: linear-gradient(135deg, #2575fc, #6a11cb);
+    }
+
+/* Pie de página */
+.login-footer {
+    margin-top: 1rem;
+    font-size: 0.875rem;
+    color: #666;
+}
+
+    .login-footer a {
+        color: #2575fc;
+        text-decoration: none;
+    }
+
+        .login-footer a:hover {
+            text-decoration: underline;
+        }
+
+
